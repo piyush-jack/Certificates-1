@@ -31,7 +31,7 @@ Feel free to browse through the directories to view the certificates. You can do
 
 If you have any questions or inquiries regarding the certificates or their content, feel free to contact me:
 
-- Email: your.email@example.com
+- Email: piyush2k02@gmail.com
 
 Happy learning!
 
