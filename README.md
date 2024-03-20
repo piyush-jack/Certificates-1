@@ -23,7 +23,8 @@ Feel free to browse through the directories to view the certificates. You can do
 
 ## Certificate List
 
-1. [Introduction to IoT](Introduction_to_IoT/)
+1. [Introduction to IoT](Certificates
+/Introduction to IOT/)
 2. [Cybersecurity Essentials](Cybersecurity_Essentials/)
 3. [Full Stack Web Development](Full_Stack_Web_Development/)
 
