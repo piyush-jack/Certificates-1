@@ -23,8 +23,8 @@ Feel free to browse through the directories to view the certificates. You can do
 
 ## Certificate List
 
-1. [Introduction to IoT](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/Introduction%20to%20IOT))
-2. [[Cybersecurity Essentials]([Cybersecurity_Essentials/](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/FullStack%20Web%20Developer))](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/FullStack%20Web%20Developer)
+1. [Introduction to IoT](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/Introduction%20to%20IOT)
+2. [Cybersecurity_Essentials/](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/FullStack%20Web%20Developer)
 3. [Full Stack Web Development](Full_Stack_Web_Development/)
 
 ## Contact
