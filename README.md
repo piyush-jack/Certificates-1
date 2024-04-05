@@ -27,7 +27,7 @@ Feel free to browse through the directories to view the certificates. You can do
 1. [Introduction to IoT](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/Introduction%20to%20IOT)
 2. [Cybersecurity Essentials](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/FullStack%20Web%20Developer)
 3. [Full Stack Web Development](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/FullStack%20Web%20Developer)
-4. [GATE CS 2024 Scorecard](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/FullStack%20Web%20Developer)
+4. [GATE CS 2024 Scorecard](https://github.com/Piyush-Sharma-Github/Certificates/tree/main/GATE%20CS%202024%20Scorecard)
 
 
 ## Contact
